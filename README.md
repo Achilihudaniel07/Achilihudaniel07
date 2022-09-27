@@ -13,14 +13,14 @@ Daniel U. Achilihu | Medium </br>
 
 
  <h1><b>I'm currently working on 🔭/b> </h1>
-<li>My old projects </li> </br>
-<li>E-commerce Website (Html, Css, Javascript) </li>  </br>
-<li>Mobile + Desktop Amazon Clone (Working on it soon...) </li> </br>
-<li>My next blog & Portfolio </li>  </br>
-<li>My CSS skill </li>  </br>
-<li>My Javascript skill </li> </br>
-<li>My React skill </li> </br>
-<li>My Mongodb skill </li> </br>
+<li>My old projects </li> 
+<li>E-commerce Website (Html, Css, Javascript) </li> 
+<li>Mobile + Desktop Amazon Clone (Working on it soon...) </li>
+<li>My next blog & Portfolio </li> 
+<li>My CSS skill </li> 
+<li>My Javascript skill </li>
+<li>My React skill </li>
+<li>My Mongodb skill </li> 
 
 
 
@@ -31,12 +31,12 @@ Daniel U. Achilihu | Medium </br>
 <li>Node js </li> 
 
 <h1> <b>Technical Skills 💼 </b> </h1>
-<li>HTML5 </li></br>
-<li>CSS3</li> </br>
-<li>BOOTSTRAP</li> </br>
-<li>JAVASCRIPT </li>  </br>
-<li>NPM </li> </br>
-<li>REACT</li> </br>
-<li>NETLIFY </li> </br>
-<li>GIT </li> </br>
-<li>GITHUB </li> </br>
+<li>HTML5 </li>
+<li>CSS3</li> 
+<li>BOOTSTRAP</li> 
+<li>JAVASCRIPT </li> 
+<li>NPM </li> 
+<li>REACT</li>
+<li>NETLIFY </li> 
+<li>GIT </li>
+<li>GITHUB </li> 
