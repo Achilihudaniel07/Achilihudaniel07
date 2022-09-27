@@ -3,12 +3,11 @@
 
 
 <h1> Hi there, I'm <b>Achilihu Daniel Uchenna</b> 👋 </h1></br> 
-<h2>I'm a Frontend Web Developer 💻, Content Creator , UX/UI Designer 👩‍💻 ! </h2>
-
+I'm a Frontend Web Developer 💻, Content Creator , UX/UI Designer 👩‍💻 ! 
 
 I love the entire process of developing creative websites. I love the challenge of finding problems and spending time to solve them. Learning how people hide things and where people are likely to look.
 
-<b>Connect with me 🤝:/b> <h1></br>
+<h1><b>Connect with me 🤝:</b> </h1></br>
 Daniel U. Achilihu | LinkedIn </br>
 Daniel U. Achilihu | Medium </br>
 
