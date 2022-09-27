@@ -3,7 +3,7 @@
 
 
 
-Hi there, I'm Achilihu Daniel Uchenna 👋
+Hi there, I'm <b>Achilihu Daniel Uchenna</b> 👋
 I'm a Frontend Web Developer 💻, Content Creator , UX/UI Designer 👩‍💻 !
 
 
