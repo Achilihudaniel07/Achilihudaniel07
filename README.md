@@ -2,8 +2,8 @@
 
 
 
-<h1 style="color:red" ALIGN="center"> Hi there, I'm <b>Achilihu Daniel Uchenna</b> 👋  </h1></br> 
-<h3>I'm a Frontend Web Developer 💻, Content Creator , UX/UI Designer 👩‍💻 !</h3>
+<h1 style="color:red" ALIGN="center"> Hi there, I'm <b>Achilihu Daniel Uchenna</b> 👋  </br> 
+I'm a Frontend Web Developer 💻, Content Creator , UX/UI Designer 👩‍💻 !</h1>
 
 I love the entire process of developing creative websites. I love the challenge of finding problems and spending time to solve them. Learning how people hide things and where people are likely to look.
 
