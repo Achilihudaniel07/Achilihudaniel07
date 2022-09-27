@@ -2,19 +2,17 @@
 
 
 
-<h1> Hi there, I'm <b>Achilihu Daniel Uchenna</b> 👋 </h1></br> 
-I'm a Frontend Web Developer 💻, Content Creator , UX/UI Designer 👩‍💻 ! 
+<h1> Hi there, I'm <b>Achilihu Daniel Uchenna</b> 👋 </br> 
+I'm a Frontend Web Developer 💻, Content Creator , UX/UI Designer 👩‍💻 ! </h1>
 
 I love the entire process of developing creative websites. I love the challenge of finding problems and spending time to solve them. Learning how people hide things and where people are likely to look.
 
-<h1><b>Connect with me 🤝:</b> </h1></br>
+<h1><b>Connect with me 🤝:</b> </h1>
 Daniel U. Achilihu | LinkedIn </br>
 Daniel U. Achilihu | Medium </br>
 
-💬 If you have any question/feedback, please do not hesitate to reach out to me!
 
-
- <h1><b>I'm currently working on 🔭/b> </h1></br>
+ <h1><b>I'm currently working on 🔭/b> </h1>
 <li>My old projects </li> </br>
 <li>E-commerce Website (Html, Css, Javascript) </li>  </br>
 <li>Mobile + Desktop Amazon Clone (Working on it soon...) </li> </br>
@@ -38,7 +36,7 @@ Daniel U. Achilihu | Medium </br>
 <li>BOOTSTRAP</li> </br>
 <li>JAVASCRIPT </li>  </br>
 <li>NPM </li> </br>
-<li>HEROKU </li> </br>
+<li>REACT</li> </br>
 <li>NETLIFY </li> </br>
 <li>GIT </li> </br>
 <li>GITHUB </li> </br>
