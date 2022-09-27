@@ -1,16 +1,38 @@
-### Hi there 👋
+Hi there, I'm Achilihu Daniel Uchenna 👋
+I'm a Frontend Web Developer 💻, Content Creator , UX/UI Designer 👩‍💻 !
 
-<!--
-**Achilihudaniel07/Achilihudaniel07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+I love the entire process of developing creative websites. I love the challenge of finding problems and spending time to solve them. Learning how people hide things and where people are likely to look.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🤝 Connect with me:
+Daniel U. Achilihu | LinkedIn
+Daniel U. Achilihu | Medium
+
+💬 If you have any question/feedback, please do not hesitate to reach out to me!
+
+🔭 I'm currently working on
+My old projects
+E-commerce Website (Html, Css, Javascript)
+Mobile + Desktop Amazon Clone (Working on it soon...)
+My next blog & Portfolio
+My CSS skill
+My Javascript skill
+My React skill
+My Mongodb skill
+
+🌱 I'm currently learning
+📱 C, Javascript and other programming language
+React js
+Sass (Sass is a preprocessor scripting language that is interpreted or compiled into Cascading Style Sheets. SassScript is the scripting language itself.)
+Node js
+
+💼 Technical Skills
+HTML5
+CSS3
+BOOTSTRAP
+JAVASCRIPT
+NPM
+HEROKU
+NETLIFY
+GIT
+GITHUB
