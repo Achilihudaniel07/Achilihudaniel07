@@ -1,4 +1,4 @@
-![image](https://avatars.githubusercontent.com/u/107114779?v=4)
+<img ALIGN: 'center'> ![image](https://avatars.githubusercontent.com/u/107114779?v=4) </img>
 
 
 
