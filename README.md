@@ -7,12 +7,12 @@ I'm a Frontend Web Developer 💻, Content Creator , UX/UI Designer 👩‍💻 
 
 I love the entire process of developing creative websites. I love the challenge of finding problems and spending time to solve them. Learning how people hide things and where people are likely to look.
 
-<h1 ALIGN="center"<b>Connect with me 🤝:</b> </h1>
+<h1><b>Connect with me 🤝:</b> </h1>
 Daniel U. Achilihu | LinkedIn </br>
 Daniel U. Achilihu | Medium </br>
 
 
- <h1 ALIGN="center"><b>I'm currently working on 🔭/b> </h1>
+ <h1><b>I'm currently working on 🔭/b> </h1>
 <li>My old projects </li> 
 <li>E-commerce Website (Html, Css, Javascript) </li> 
 <li>Mobile + Desktop Amazon Clone (Working on it soon...) </li>
@@ -24,13 +24,13 @@ Daniel U. Achilihu | Medium </br>
 
 
 
-<h1 ALIGN="center"> <b> I'm currently learning 🌱</b></h1>
+<h1> <b> I'm currently learning 🌱</b></h1>
 <li>📱 C, Javascript and other programming language  </li>
 <li>React js </li>  
  <li>Sass (Sass is a preprocessor scripting language that is interpreted or compiled into Cascading Style Sheets. SassScript is the scripting language itself). </li> 
 <li>Node js </li> 
 
-<h1 ALIGN="center"> <b>Technical Skills 💼 </b> </h1>
+<h1> <b>Technical Skills 💼 </b> </h1>
 <li>HTML5 </li>
 <li>CSS3</li> 
 <li>BOOTSTRAP</li> 
