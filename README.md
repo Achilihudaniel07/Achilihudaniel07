@@ -11,6 +11,7 @@ I love the entire process of developing creative websites. I love the challenge 
 
 
 <h1><b>Connect with me 🤝:</b> </h1>
+https://www.linkedin.com/in/daniel-u-achilihu-633161150/
 Daniel U. Achilihu | LinkedIn </br>
 Daniel U. Achilihu | Medium </br>
 
