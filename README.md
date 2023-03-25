@@ -1,4 +1,4 @@
-<div style= "background-color:red">
+<div style= "background-color:red;">
 <img  src='https://avatars.githubusercontent.com/u/107114779?s=400&u=f38e8eee575615408749792d36296c7949836b61&v=4'  />
  </div>
  
