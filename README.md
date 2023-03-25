@@ -1,5 +1,7 @@
    ............................................................................  ![image] https://user-images.githubusercontent.com/107114779/209519264-06881b29-f978-4926-8a71-71f81340a4e7.png
 
+
+<img src='https://avatars.githubusercontent.com/u/107114779?s=400&u=f38e8eee575615408749792d36296c7949836b61&v=4'/>
 <h1 style="color:red" ALIGN="center"> Hi there, I'm <b>Achilihu Daniel Uchenna</b> 👋  </br> 
 I am a Frontend Web Developer 💻, Content Creator, Graphics Designer 👩‍💻 !</h1>
 
