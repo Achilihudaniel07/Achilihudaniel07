@@ -37,10 +37,10 @@ Daniel U. Achilihu | Medium </br>
 
 <h1> <b>Technical Skills 💼 </b> </h1>
 <li>HTML5 </li>
-<li>CSS3</li> 
+<li>CSS3 and SASS</li> 
 <li>BOOTSTRAP</li> 
 <li>JAVASCRIPT </li> 
 <li>NPM </li> 
-<li>REACT</li>
+<li>REACT JS</li>
 <li>NETLIFY </li> 
 <li>GIT & GITHUB </li>
