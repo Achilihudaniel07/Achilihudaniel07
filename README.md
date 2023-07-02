@@ -3,7 +3,7 @@
  ..................................................</div>
  
 <h1 style="color:red" ALIGN="center"> Hi there, I'm <b>Achilihu Daniel Uchenna</b> 👋  </br> 
-I am a Frontend Web Developer 💻, Software Engineer, Blogger 👩‍💻 !</h1>
+I am a Frontend Web Developer 💻, Software Engineer and Blogger 👩‍💻 !</h1>
 
 I love the entire process of developing creative websites. I love the challenge of finding problems and spending time to solve them. Learning how people hide things and where people are likely to look.
 
