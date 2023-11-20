@@ -5,25 +5,25 @@
 <h1 style="color:red" ALIGN="center"> Hi there, I'm <b>Achilihu Daniel Uchenna</b> 👋  </br> 
 I am a Frontend Web Developer 💻, Software Engineer and Blogger 👩‍💻 !</h1>
 
-I love the entire process of developing creative websites. I love the challenge of finding problems and spending time to solve them. Learning how people hide things and where people are likely to look.
+I love the entire process of developing creative dynamic web applications. I love the challenge of finding problems and spending time to solve them. Learning how people hide things and where people are likely to look.
 
 
 
 <h1><b>Connect with me 🤝:</b> </h1>
-Daniel U. Achilihu | <a href= https://www.linkedin.com/in/daniel-achilihu-633161150/>LinkedIn </a></br>
+Daniel U. Achilihu | <a href= https://www.linkedin.com/in/daniel-achilihu-iaeng-633161150//>LinkedIn </a></br>
 Daniel U. Achilihu | <a href= https://twitter.com/dan__kesh77>Twitter </a></br>
-Daniel U. Achilihu | Medium </br>
+Daniel U. Achilihu | <a href= https://www.facebook.com/daniel.achilihu.9> Facebook </a></br>
 
 
  <h1><b>I'm currently working on 🔭</b> </h1>
 <li>My old projects </li> 
 <li>E-commerce Website (HTML, CSS/SCSS, JavaScript, React Js) </li> 
-<li>SoccerSpot (Working on it soon...) </li>
+<li> <a href=  https://dantutor.onrender.com/> DAN TUTOR E-LEARNING PLATFORM  </a></li>
 <li>My next blog & Portfolio </li> 
-<li>My CSS skill </li> 
+<li>My CSS skill </li>
 <li>My Javascript skill </li>
 <li>My React skill </li>
-<li>My SCSS skill </li> 
+<li>My SCSS and Tailwind CSS skill </li> 
 
 
 
@@ -37,8 +37,9 @@ Daniel U. Achilihu | Medium </br>
 
 <h1> <b>Technical Skills 💼 </b> </h1>
 <li>HTML5 </li>
-<li>CSS3 and SASS</li>  
+<li>CSS3, Tailwind CSS and SASS</li>  
 <li>JAVASCRIPT </li>  
 <li>REACT JS</li>
+<li>NODE JS</li>
 <li>NETLIFY </li> 
 <li>GIT & GITHUB </li>
