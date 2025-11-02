@@ -3,15 +3,15 @@
  ..................................................</div>
  
 <h1 style="color:red" ALIGN="center"> Hi there, I'm <b>Achilihu Daniel Uchenna</b> 👋  </br> 
-I am a Frontend Web Developer 💻, Software Engineer and Blogger 👩‍💻 !</h1>
+I am a Frontend Web Developer 💻, Software Engineer and Electrical & Electronics Engineer 👩‍💻 !</h1>
 
 I love the entire process of developing creative dynamic web applications. I love the challenge of finding problems and spending time to solve them. Learning how people hide things and where people are likely to look.
 
 
 
 <h1><b>Connect with me 🤝:</b> </h1>
-Daniel U. Achilihu | <a href= https://www.linkedin.com/in/daniel-achilihu-iaeng-633161150//>LinkedIn </a></br>
-Daniel U. Achilihu | <a href= https://twitter.com/dan__kesh77>Twitter </a></br>
+Daniel U. Achilihu | <a href= https://www.linkedin.com/in/daniel-achilihu-633161150/>LinkedIn </a></br>
+Daniel U. Achilihu | <a href= https://twitter.com/dan__uchee>Twitter </a></br>
 Daniel U. Achilihu | <a href= https://www.facebook.com/daniel.achilihu.9> Facebook </a></br>
 
 
